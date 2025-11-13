@@ -1,0 +1,6 @@
+2025-11-07 10:27:02 ERROR [DB] Database connection lost (retry 1 of 5)
+2025-11-07 10:27:32 ERROR [DB] Database connection lost (retry 2 of 5)
+2025-11-07 10:28:10 INFO  [DB] Database reconnected successfully
+2025-11-07 10:29:02 ERROR [DB] Database connection lost (retry 1 of 5)
+2025-11-07 10:30:32 ERROR [DB] Database connection lost (retry 2 of 5)
+2025-11-07 10:31:10 INFO  [DB] Database reconnected successfully

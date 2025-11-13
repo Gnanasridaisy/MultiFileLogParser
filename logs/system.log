@@ -1,0 +1,3 @@
+2025-11-07 10:25:45 WARN  [SYSTEM] Disk space low at /opt/data (5% left)
+2025-11-07 10:26:10 INFO  [SYSTEM] Scheduled backup completed
+2025-11-07 10:30:55 ERROR [SYSTEM] CPU temperature high

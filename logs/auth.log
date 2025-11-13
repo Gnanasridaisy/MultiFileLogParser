@@ -1,0 +1,4 @@
+2025-11-07 10:23:12 INFO  [AUTH] User John logged in
+2025-11-07 10:45:55 INFO  [AUTH] User Mike logged in
+2025-11-07 11:00:21 INFO  [AUTH] User John logged out
+2025-11-07 11:15:09 ERROR [AUTH] Password validation failed for User David
